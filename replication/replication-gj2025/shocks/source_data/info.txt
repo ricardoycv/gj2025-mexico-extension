@@ -1,0 +1,1 @@
+Y.csv contains four variables from the dataset of high-frequency financial market surprises around Fed communications constructed in the paper by Marek Jarocinski and Peter Karadi, Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks, 2025, CEPR Discussion Paper No. 19923. See that paper for the details on the construction of the dataset.
